@@ -1,9 +1,9 @@
 <img src="https://github.com/mousastech/dlt_ingestion/blob/b41541716757c8fe197dfd35ee74d97af4c85399/files/DLT%20Ingest.png?raw=true">
 
-# dlt_ingestion
+# Project
 Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
 
-# Organization of this project 
+# Structure 
 
 <b>1. Conectar a um storage Account (AWS S3) através de uma External Location: mostrar como se conecta a um storage account através do Unity Catalog </b>
 - Usar Cloud Formation da AWS para configurar mas facilmente
