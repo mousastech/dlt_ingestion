@@ -33,10 +33,10 @@ Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
 Para criar os catálogos utilize os comandos abaixo: 
 
 <code>
-CREATE OR REPLACE CATALOG ecommerce; 
-CREATE OR REPLACE SCHEMA bronze;
-CREATE OR REPLACE SCHEMA silver;
-CREATE OR REPLACE SCHEMA gold;
+CREATE CATALOG ecommerce; 
+CREATE SCHEMA bronze;
+CREATE SCHEMA silver;
+CREATE SCHEMA gold;
 </code>
 
 <br>
