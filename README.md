@@ -30,7 +30,7 @@ Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
 <img src="https://github.com/mousastech/dlt_ingestion/blob/69f95cedbea4e6e570e62861b4924b5242659458/files/1.Storage_Logical.png?raw=true">
 
 <br>
-Para criar os catálogos utilize os comandos abaixo: 
+- Para criar os catálogos utilize os comandos abaixo: 
 
 <code>
 CREATE CATALOG ecommerce; 
@@ -41,7 +41,12 @@ CREATE SCHEMA gold;
 </code>
 
 <br>
-Após criar o catálogo, criar um Volume:
+- Após criar o catálogo, criar uma Externa Location:
+<br><br>
+<img src="https://github.com/mousastech/dlt_ingestion/blob/e96c8bc75e87f992d806f650b08c21c72412b818/files/3.Create_External_data.gif?raw=true">
+
+<br><br>
+- Criar um Volume do tipo Externo:
 <br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/f834853775a4199cdabaa09c4bdedfe0ed7edf1b/files/2.CreateVolume.png?raw=true">
 
