@@ -34,6 +34,7 @@ Para criar os catálogos utilize os comandos abaixo:
 
 <code>
 CREATE CATALOG ecommerce; 
+USE catalog ecommerce;
 CREATE SCHEMA bronze;
 CREATE SCHEMA silver;
 CREATE SCHEMA gold;
