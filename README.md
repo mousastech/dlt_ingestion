@@ -41,7 +41,7 @@ CREATE SCHEMA gold;
 </code>
 
 <br>
-- Após criar o catálogo, criar uma Externa Location:
+- Após criar o catálogo, criar uma External Location:
 <br><br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/e96c8bc75e87f992d806f650b08c21c72412b818/files/3.Create_External_data.gif?raw=true">
 
