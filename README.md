@@ -1,4 +1,4 @@
-<img src="https://github.com/mousastech/dlt_ingestion/blob/b41541716757c8fe197dfd35ee74d97af4c85399/files/DLT%20Ingest.png?raw=true">
+<img src="https://github.com/mousastech/dlt_ingestion/blob/1d1acf88ef16711f398e202ea703b6c3336765e9/files/DLT%20Ingest.png?raw=true">
 
 # Project
 Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
