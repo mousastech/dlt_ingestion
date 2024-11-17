@@ -29,6 +29,26 @@ Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
 
 <img src="https://github.com/mousastech/dlt_ingestion/blob/69f95cedbea4e6e570e62861b4924b5242659458/files/1.Storage_Logical.png?raw=true">
 
+<br>
+Para criar os catálogos utilize os comandos abaixo: 
+
+<code>
+CREATE OR REPLACE CATALOG ecommerce; 
+CREATE OR REPLACE SCHEMA bronze;
+CREATE OR REPLACE SCHEMA silver;
+CREATE OR REPLACE SCHEMA gold;
+</code>
+
+<br>
+Catálogo criado:
+<img src="https://github.com/mousastech/dlt_ingestion/blob/f834853775a4199cdabaa09c4bdedfe0ed7edf1b/files/2.CreateVolume.png?raw=true">
+
+<br>
+Disponível no notebook <code>setup.ypnb</code>
+<br><br>
+<b> Estrutura dos arquivos no Storage Account AWS S3</br>
+<img src="https://github.com/mousastech/dlt_ingestion/blob/8ce6c705986446bd3adae12dc67a7dce2e37f55f/files/1.Estrutura%20S3.gif?raw=true">
+
 <b>Talk to me:</b>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochamoises/)](https://www.linkedin.com/in/rochamoises/) 
