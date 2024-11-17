@@ -66,7 +66,7 @@ Disponível no notebook <code>setup.ypnb</code>
 <br>
 
 <br><br>
-<b>6 - No meu Data Engineering -> Delta Live Tables: Create Pipeline</b><code>
+<b>6 - No meu Data Engineering -> Delta Live Tables: Create Pipeline</b>
 <br><br>
 
 <img src="https://github.com/mousastech/dlt_ingestion/blob/72c9b97b12799ce52b449c59bdc94dd21539dce0/files/Parte%205%20-%20Criar%20Pipeline.gif?raw=true">
