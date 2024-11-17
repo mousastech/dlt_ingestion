@@ -88,6 +88,5 @@ Dúvidas? Comentários? Sugestões e críticas, são apreciados.
 
 <br><br>
 <b>Talk to me:</b>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Moises-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rochamoises/)](https://www.linkedin.com/in/rochamoises/) 
 [![Gmail Badge](https://img.shields.io/badge/-mousas.rocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mousas.rocha@gmail.com)](mailto:mousas.rocha@gmail.com)
