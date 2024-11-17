@@ -38,8 +38,7 @@ Import data from AWS S3 through the Unity Catalog using Delta Live Tables.
 Ou obter o detalhe abaixo:
 <br>
 
-<code>
-CREATE CATALOG ecommerce; 
+<code>CREATE CATALOG ecommerce; 
 USE catalog ecommerce;
 CREATE SCHEMA bronze;
 CREATE SCHEMA silver;
@@ -53,32 +52,32 @@ CREATE SCHEMA gold;
 
 <br><br>
 <b>3 - Criar um Volume do tipo Externo:</b>
-<br>
+<br><br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/f834853775a4199cdabaa09c4bdedfe0ed7edf1b/files/2.CreateVolume.png?raw=true">
 
 <br>
 Disponível no notebook <code>setup.ypnb</code>
 <br><br>
-<b></b> 4 - Carregar arquivos no Storage Account AWS S3</br><br>
+<b> 4 - Carregar arquivos no Storage Account AWS S3</b><br><br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/8ce6c705986446bd3adae12dc67a7dce2e37f55f/files/1.Estrutura%20S3.gif?raw=true">
 
 <br><br>
-<b>5 - Abrir notebook:</b> <code> Ingest DLT ecommerce.ipynb </code> e conferir
+<b>5 - Abrir notebook:</b> <code> Ingest DLT ecommerce.ipynb </code> 
 <br>
 
 <br><br>
-<b>6 - No meu Data Engineering -> Delta Live Tables: Create Pipeline</b> <code>
+<b>6 - No meu Data Engineering -> Delta Live Tables: Create Pipeline</b><code>
 <br><br>
 
 <img src="https://github.com/mousastech/dlt_ingestion/blob/72c9b97b12799ce52b449c59bdc94dd21539dce0/files/Parte%205%20-%20Criar%20Pipeline.gif?raw=true">
 
 <br><br>
-<b>7 - Conferir resultado do Pipeline e revisar funções</b> <code>
+<b>7 - Conferir resultado do Pipeline e revisar funções</b>
 <br><br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/6f39ec4b39a3a88297975b816022dbc57cc770c5/files/4.DLT_Pipeline.png?raw=true">
 
 <br><br>
-<b>8 - Abrir notebook:</b> <code> Data Ingestion Traditional.ipynb </code> e executar para fins de comparação
+<b>8 - Abrir notebook:</b> <code>Data Ingestion Traditional.ipynb</code> e executar para fins de comparação
 <br><br>
 
 <img src="https://github.com/mousastech/dlt_ingestion/blob/8fe4037d2be4579233854956e415cbb69708dc9c/files/5.Traditional.png?raw=true">
