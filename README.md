@@ -40,7 +40,8 @@ CREATE OR REPLACE SCHEMA gold;
 </code>
 
 <br>
-Catálogo criado:
+Após criar o catálogo, criar um Volume:
+<br>
 <img src="https://github.com/mousastech/dlt_ingestion/blob/f834853775a4199cdabaa09c4bdedfe0ed7edf1b/files/2.CreateVolume.png?raw=true">
 
 <br>
